@@ -41,7 +41,7 @@ tags:
   - Property and Casualty
   - Group Benefits
   - Mutual Funds
-  - Financial-Services
+  - Financial Services
 tags_raw:
   - Fortune 500
   - Insurance
@@ -49,6 +49,7 @@ tags_raw:
   - Group Benefits
   - Mutual Funds
   - Financial Services
+  - Financial-Services
 apis: []
 common:
   - type: DomainSecurity
